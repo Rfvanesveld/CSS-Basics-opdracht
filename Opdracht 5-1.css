@@ -1,0 +1,9 @@
+.Wie {text-align: center; border: solid black 2px; background-color: blue}
+main {color:darkblue;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#Richard {background-color: rgb(173, 196, 230);border: solid black 2px;}
+li {color: darkslateblue;font-family: cursive;}
+.gezin {background-color: deepskyblue; border: solid black 2px; font-size: 18px;}
+aside {color: darkblue; background-color: rgb(173, 196, 230);border: solid black 2px; width: 400px;}
+footer {color: red; }
+h5 {color: whitesmoke; width: 200px; background-color: red; border: solid black 2px;}
+img.photo {border: 10px solid whitesmoke;background-color: black;padding: 15px;}

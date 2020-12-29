@@ -1,0 +1,7 @@
+body {background-color: firebrick; font-family: cursive;background-image: url(Gif-2.gif), url(Gif-1.gif);} 
+header {border: dotted black 2px; background-color: whitesmoke;}
+h1 {text-align: center;}
+.vrouw {font-size: 24px; background-color: whitesmoke;text-decoration: none; border: 1px dotted #253c93;}
+.vrouw :hover {border: 1px solid #253c93; }
+footer {color: whitesmoke;}
+
